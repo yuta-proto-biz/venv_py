@@ -6,7 +6,7 @@ st.markdown("# でかい文字")
 st.markdown("## やや大きい文字")
 st.markdown("### 少し大きい文字")
 
-chk = st.checkbox("チェックしてヨシ") #コメントだよ
+chk = st.checkbox("更新しました！") #コメントだよ
 
 if chk:
     st.button("ボタン")
